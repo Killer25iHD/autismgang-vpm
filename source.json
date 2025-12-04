@@ -20,7 +20,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "url": "https://github.com/Killer25iHD/AutismGangImporterVCC/releases/download/1.0.0/com.losemyxelf.autismgangimporter.rar",
+          "url": "https://github.com/Killer25iHD/AutismGangImporterVCC/releases/download/1.0.0/com.losemyxelf.autismgangimporter.zip",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.0"
           },
