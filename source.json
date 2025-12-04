@@ -1,31 +1,24 @@
 {
   "name": "Losemyxelf VPM Repo",
   "id": "com.losemyxelf.vpm",
-  "url": "https://Killer25iHD.github.io/autismgang-vpm/index.json",
+  "url": "https://killer25ihd.github.io/autismgang-vpm/index.json",
+
   "author": {
     "name": "Losemyxelf",
     "url": "https://github.com/Killer25iHD"
   },
+
   "description": "VPM Listing für Autism Gang Importer.",
   "infoLink": {
     "url": "https://github.com/Killer25iHD/AutismGangImporter",
     "text": "GitHub Repo"
   },
+
   "packages": [
     {
-      "id": "com.losemyxelf.autismgangimporter",
-      "displayName": "Autism Gang Importer",
-      "description": "Importer-Tool",
-      "author": "Losemyxelf",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "url": "https://github.com/Killer25iHD/AutismGangImporterVCC/releases/download/1.0.0/com.losemyxelf.autismgangimporter.zip",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.7.0"
-          },
-          "unity": "2022.3"
-        }
+      "name": "com.losemyxelf.autismgangimporter",          
+      "releases": [                                      
+        "https://github.com/Killer25iHD/AutismGangImporterVCC/releases/download/1.0.0/com.losemyxelf.autismgangimporter-1.0.0.zip"
       ]
     }
   ]
